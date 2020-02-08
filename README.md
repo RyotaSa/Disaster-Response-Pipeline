@@ -19,3 +19,6 @@ A web app where an emergency worker can input a new message and get classificati
 ### Screenshot:
 Front page
 ![Disasters1](https://user-images.githubusercontent.com/26545820/74082847-73ba4a00-4aa1-11ea-8a11-30c8b9ce63a8.png)
+
+Result page:message'please help food or tent' ⇒ Result'Related, Request, Aid Related, Shelter, Direct Report'
+![Disasters2](https://user-images.githubusercontent.com/26545820/74082882-c6940180-4aa1-11ea-9859-07d38209015e.png)
