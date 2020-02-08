@@ -16,3 +16,6 @@ A web app where an emergency worker can input a new message and get classificati
 
 3. Go to http://0.0.0.0:3001/
 
+### Screenshot:
+Front page
+![Disasters1](https://user-images.githubusercontent.com/26545820/74082847-73ba4a00-4aa1-11ea-8a11-30c8b9ce63a8.png)
